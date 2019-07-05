@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.title{
+  font-size: 2em;
+  background-color: #61dafb;
+  text-align: center;
+}
+.result{
+  text-align: center;
+  margin-left: 1em;
+  margin-right: 1em;
+  margin-bottom: 1em;
+  font-size: 1.5em;
+}
+.error{
+  text-align: center;
+  margin-left: 1em;
+  margin-right: 1em;
+
+  font-size: 1.5em;
+  color: red;
+}
+.header{
+  text-align: center;
+}
+.innerContainer{
+  text-align: center;
+}
